@@ -9,7 +9,9 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 50px;
     font-weight: normal;
 }
-a{
-    color: aquamarine;
-    font-size: 16px;
+
+.link--cta{
+    
+        color: aquamarine;
+        font-size: 16px;
 }
